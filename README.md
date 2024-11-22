@@ -1,6 +1,5 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
-# NAME:JIVAN KARTHEC B S
-# REG NO:212222100017
+
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
 
